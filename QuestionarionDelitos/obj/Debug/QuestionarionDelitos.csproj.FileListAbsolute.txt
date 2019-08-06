@@ -1,0 +1,51 @@
+C:\Users\vinic\Desktop\QuestionarionDelitos\QuestionarionDelitos\bin\Debug\QuestionarionDelitos.exe.config
+C:\Users\vinic\Desktop\QuestionarionDelitos\QuestionarionDelitos\bin\Debug\QuestionarionDelitos.exe
+C:\Users\vinic\Desktop\QuestionarionDelitos\QuestionarionDelitos\bin\Debug\QuestionarionDelitos.pdb
+C:\Users\vinic\Desktop\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.csprojAssemblyReference.cache
+C:\Users\vinic\Desktop\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\MainWindow.g.cs
+C:\Users\vinic\Desktop\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\App.g.cs
+C:\Users\vinic\Desktop\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos_MarkupCompile.cache
+C:\Users\vinic\Desktop\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos_MarkupCompile.lref
+C:\Users\vinic\Desktop\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\MainWindow.baml
+C:\Users\vinic\Desktop\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.g.resources
+C:\Users\vinic\Desktop\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.Properties.Resources.resources
+C:\Users\vinic\Desktop\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.csproj.GenerateResource.cache
+C:\Users\vinic\Desktop\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.exe
+C:\Users\vinic\Desktop\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.pdb
+C:\Users\vinic\Desktop\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\Preguntas.g.cs
+C:\Users\vinic\Desktop\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\Preguntas.baml
+C:\Users\vinic\Documents\GitHub\QuestionarioLegislacion\QuestionarionDelitos\QuestionarionDelitos\bin\Debug\QuestionarionDelitos.exe.config
+C:\Users\vinic\Documents\GitHub\QuestionarioLegislacion\QuestionarionDelitos\QuestionarionDelitos\bin\Debug\QuestionarionDelitos.exe
+C:\Users\vinic\Documents\GitHub\QuestionarioLegislacion\QuestionarionDelitos\QuestionarionDelitos\bin\Debug\QuestionarionDelitos.pdb
+C:\Users\vinic\Documents\GitHub\QuestionarioLegislacion\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.csprojAssemblyReference.cache
+C:\Users\vinic\Documents\GitHub\QuestionarioLegislacion\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\MainWindow.g.cs
+C:\Users\vinic\Documents\GitHub\QuestionarioLegislacion\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\Preguntas.g.cs
+C:\Users\vinic\Documents\GitHub\QuestionarioLegislacion\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\App.g.cs
+C:\Users\vinic\Documents\GitHub\QuestionarioLegislacion\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos_MarkupCompile.cache
+C:\Users\vinic\Documents\GitHub\QuestionarioLegislacion\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos_MarkupCompile.lref
+C:\Users\vinic\Documents\GitHub\QuestionarioLegislacion\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\MainWindow.baml
+C:\Users\vinic\Documents\GitHub\QuestionarioLegislacion\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\Preguntas.baml
+C:\Users\vinic\Documents\GitHub\QuestionarioLegislacion\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.g.resources
+C:\Users\vinic\Documents\GitHub\QuestionarioLegislacion\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.Properties.Resources.resources
+C:\Users\vinic\Documents\GitHub\QuestionarioLegislacion\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.csproj.GenerateResource.cache
+C:\Users\vinic\Documents\GitHub\QuestionarioLegislacion\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\GitHub\QuestionarioLegislacion\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.exe
+C:\Users\vinic\Documents\GitHub\QuestionarioLegislacion\QuestionarionDelitos\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.pdb
+C:\Users\vinic\Desktop\Cuestionario 4toA\QuestionarionDelitos\bin\Debug\QuestionarionDelitos.exe.config
+C:\Users\vinic\Desktop\Cuestionario 4toA\QuestionarionDelitos\bin\Debug\QuestionarionDelitos.exe
+C:\Users\vinic\Desktop\Cuestionario 4toA\QuestionarionDelitos\bin\Debug\QuestionarionDelitos.pdb
+C:\Users\vinic\Desktop\Cuestionario 4toA\QuestionarionDelitos\obj\Debug\MainWindow.g.cs
+C:\Users\vinic\Desktop\Cuestionario 4toA\QuestionarionDelitos\obj\Debug\Preguntas.g.cs
+C:\Users\vinic\Desktop\Cuestionario 4toA\QuestionarionDelitos\obj\Debug\App.g.cs
+C:\Users\vinic\Desktop\Cuestionario 4toA\QuestionarionDelitos\obj\Debug\QuestionarionDelitos_MarkupCompile.cache
+C:\Users\vinic\Desktop\Cuestionario 4toA\QuestionarionDelitos\obj\Debug\QuestionarionDelitos_MarkupCompile.lref
+C:\Users\vinic\Desktop\Cuestionario 4toA\QuestionarionDelitos\obj\Debug\MainWindow.baml
+C:\Users\vinic\Desktop\Cuestionario 4toA\QuestionarionDelitos\obj\Debug\Preguntas.baml
+C:\Users\vinic\Desktop\Cuestionario 4toA\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.g.resources
+C:\Users\vinic\Desktop\Cuestionario 4toA\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.Properties.Resources.resources
+C:\Users\vinic\Desktop\Cuestionario 4toA\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.csproj.GenerateResource.cache
+C:\Users\vinic\Desktop\Cuestionario 4toA\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\Cuestionario 4toA\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.exe
+C:\Users\vinic\Desktop\Cuestionario 4toA\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.pdb
+C:\Users\vinic\Desktop\Cuestionario 4toA\QuestionarionDelitos\obj\Debug\QuestionarionDelitos.csprojAssemblyReference.cache
